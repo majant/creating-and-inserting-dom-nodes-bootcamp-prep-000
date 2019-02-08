@@ -7,3 +7,4 @@ element.style.textAlign = 'center'
 
 document.body.appendChild = element;
 
+var ul = document.createElement('ul');
